@@ -1,0 +1,7 @@
+token.json
+credentials.json
+.venv/
+__pycache__/
+.env
+Models/
+emails.json
